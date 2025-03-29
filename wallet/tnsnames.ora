@@ -1,0 +1,12 @@
+fs3_high = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g25f37df37137a5_fs3_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+fs3_low = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g25f37df37137a5_fs3_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+fs3_medium = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g25f37df37137a5_fs3_medium.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+fs3_tp = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g25f37df37137a5_fs3_tp.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+fs3_tpurgent = (description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.sa-santiago-1.oraclecloud.com))(connect_data=(service_name=g25f37df37137a5_fs3_tpurgent.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))
+
+
+
