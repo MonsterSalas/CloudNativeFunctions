@@ -67,6 +67,12 @@
             <artifactId>osdt_cert</artifactId>
             <version>19.8.0.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.azure</groupId>
+            <artifactId>azure-messaging-eventgrid</artifactId>
+            <version>4.22.2</version>
+        </dependency>
+
     </dependencies>
 
     <build>
